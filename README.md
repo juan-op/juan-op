@@ -5,13 +5,12 @@
 ## Currently learning `Python`
 
 * Data Scientist with Python - _datacamp_ 
-
 * Complete Python Developer in 2022 - _Zero to Mastery_ 
 
 ## Software
 * **PyCharm** and **Visual Studio Code**: learning and practising `Python` (still not sure which should I stick with).
 * **JupyterLab** (_Deepnote_, _Google Colab_): for my data science projects.
-* **Inkdrop**: taking notes
+* **Inkdrop**: taking notes.
 
 ## Libraries
 
