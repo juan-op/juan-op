@@ -14,11 +14,11 @@
 
 ## Libraries
 
-* NumPy:
-* pandas
-* Matplotlib
-* Seaborn
-* scikit-learn
+* NumPy.
+* pandas.
+* Matplotlib.
+* Seaborn.
+* scikit-learn.
 
 
 
