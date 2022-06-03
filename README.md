@@ -4,11 +4,16 @@
 
 ## Currently learning `Python`
 
-* Data Scientist with Python - _datacamp_. 
+### Courses
+* Data Scientist with Python Career Track - _datacamp_. 
 * Complete Python Developer in 2022 - _Zero to Mastery_.
 
+### Books
+* Statistical Methods for Machine Learning - _Jason Brownlee_.
+* Storytelling with Data - _Cole Nussbaumer Knaflic_.
+
 ## Software
-* **PyCharm** and **Visual Studio Code**: learning and practising `Python`.
+* **Visual Studio Code**: learning and practising `Python`.
 * **JupyterLab** (_Deepnote_, _Google Colab_): data science projects.
 * **Inkdrop**: taking notes.
 
