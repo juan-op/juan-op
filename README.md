@@ -15,8 +15,8 @@
 * Data Science from Scratch First Principles with Python - _Joel Grus_.
 
 ## Software
-* **Visual Studio Code**: learning and practicing `Python`.
-* **JupyterLab** (_Deepnote_, _Google Colab_): data science projects.
+* **PyCharm**: learning and practicing `Python`.
+* **JupyterLab**: data science projects.
 * **Inkdrop**: taking notes.
 
 ## Libraries
