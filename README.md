@@ -6,7 +6,7 @@
 
 ### Courses
 * Data Scientist with Python Career Track - _datacamp_.  
-![45%](https://progress-bar.dev/45) 
+![47%](https://progress-bar.dev/47) 
 * Complete Python Developer in 2022 - _Zero to Mastery_.  
 ![20%](https://progress-bar.dev/20)
 
