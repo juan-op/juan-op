@@ -6,9 +6,9 @@
 
 ### Courses
 * Data Scientist with Python Career Track - _datacamp_.  
-![47%](https://progress-bar.dev/47) 
+![48%](https://progress-bar.dev/48) 
 * Complete Python Developer in 2022 - _Zero to Mastery_.  
-![20%](https://progress-bar.dev/20)
+![25%](https://progress-bar.dev/25)
 
 ### Books
 * Statistical Methods for Machine Learning - _Jason Brownlee_.
