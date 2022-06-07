@@ -12,7 +12,8 @@
 
 ### Books
 * Statistical Methods for Machine Learning - _Jason Brownlee_.
-* Data Science from Scratch First Principles with Python - _Joel Grus_.
+* Data Science from Scratch, First Principles with Python - _Joel Grus_.
+* Python Crash Course - _Eric Matthes_.
 
 ## Software
 * **PyCharm**: learning and practicing `Python`.
