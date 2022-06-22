@@ -8,25 +8,17 @@
 * Data Scientist with Python Career Track - _datacamp_.  
 ![48%](https://progress-bar.dev/48) 
 * Complete Python Developer in 2022 - _Zero to Mastery_.  
-![35%](https://progress-bar.dev/35)
+![40%](https://progress-bar.dev/40)
 
 ### Books
-* Statistical Methods for Machine Learning - _Jason Brownlee_.
-* Data Science from Scratch, First Principles with Python - _Joel Grus_.
+* Python Basics: A Practical Introduction to Python 3 - _Real Python_.
 * Python Crash Course - _Eric Matthes_.
+* Statistical Methods for Machine Learning - _Jason Brownlee_.
 
 ## Software
 * **PyCharm**: learning and practicing `Python`.
 * **JupyterLab**: data science projects.
 * **Inkdrop**: taking notes.
-
-## Libraries
-
-* NumPy.
-* pandas.
-* Matplotlib.
-* Seaborn.
-* scikit-learn.
 
 
 
