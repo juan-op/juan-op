@@ -5,13 +5,13 @@
 ## Currently learning `Python`
 
 ### Courses
-* Complete Python Developer in 2022 - _Zero to Mastery_.  
+* Complete Python Developer in 2022: Zero to Mastery - _Udemy_.  
 ![55%](https://progress-bar.dev/55)
 * Data Scientist with Python Career Track - _datacamp_.  
 ![48%](https://progress-bar.dev/48) 
 
 ### Books
-* Python Basics: A Practical Introduction to Python 3 - _Real Python_.
+* ~~Python Basics: A Practical Introduction to Python 3 - _Real Python_.~~
 * Python Crash Course - _Eric Matthes_.
 * Statistical Methods for Machine Learning - _Jason Brownlee_.
 
