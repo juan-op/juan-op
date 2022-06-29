@@ -8,7 +8,7 @@
 * Complete Python Developer in 2022: Zero to Mastery - _Udemy_.  
 ![55%](https://progress-bar.dev/55)
 * Data Scientist with Python Career Track - _datacamp_.  
-![49%](https://progress-bar.dev/49) 
+![50%](https://progress-bar.dev/50) 
 
 ### Books
 * ~~Python Basics: A Practical Introduction to Python 3 - _Real Python_.~~
