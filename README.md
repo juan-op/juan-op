@@ -16,7 +16,7 @@
 * Statistical Methods for Machine Learning - _Jason Brownlee_.
 
 ## Software
-* **PyCharm**: learning and practicing `Python`.
+* **PyCharm**: practicing `Python`.
 * **JupyterLab**: data science projects.
 * **Inkdrop**: taking notes.
 
