@@ -11,7 +11,7 @@
 ![52%](https://progress-bar.dev/52) 
 
 ### Books
-* Python Tricks - The Book - _Real Python_.
+* Python Tricks: The Book - _Dan Bader_.
 * Python Crash Course - _Eric Matthes_.
 
 ## Software
