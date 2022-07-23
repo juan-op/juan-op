@@ -6,7 +6,7 @@
 
 ### Courses
 * Complete Python Developer in 2022: Zero to Mastery - _Udemy_.  
-![70%](https://progress-bar.dev/70)
+![75%](https://progress-bar.dev/75)
 * Data Scientist with Python Career Track - _datacamp_.  
 ![52%](https://progress-bar.dev/52) 
 
