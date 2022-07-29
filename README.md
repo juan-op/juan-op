@@ -5,8 +5,9 @@
 ## Currently learning `Python`
 
 ### Courses
-* Complete Python Developer in 2022: Zero to Mastery - _Udemy_.  
-![100%](https://progress-bar.dev/100)
+
+* Machine Learning Specialization (DeepLearning.AI & Stanford) - _Coursera_.  
+![5%](https://progress-bar.dev/5)
 * Data Scientist with Python Career Track - _datacamp_.  
 ![52%](https://progress-bar.dev/52) 
 
