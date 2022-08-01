@@ -7,7 +7,7 @@
 ### Courses
 
 * Machine Learning Specialization (DeepLearning.AI & Stanford) - _Coursera_.  
-![5%](https://progress-bar.dev/5)
+![20%](https://progress-bar.dev/20)
 * Data Scientist with Python Career Track - _datacamp_.  
 ![52%](https://progress-bar.dev/52) 
 
